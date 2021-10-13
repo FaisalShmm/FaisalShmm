@@ -2,5 +2,6 @@
 - 👀 I’m interested in ...coding, solving problems, and brushing my skills
 - 🌱 I’m currently learning ... c,i have my hands on python quite stable
 
-- 📫 How to reach me ...Gmail-faisalshmm12@gmail.com
+- 📫 How to reach me ...
+- Gmail-faisalshmm12@gmail.com
 
