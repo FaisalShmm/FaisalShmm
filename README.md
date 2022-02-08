@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning ... c,i have my hands on python quite stable
 
 - 📫 How to reach me ...
-- Gmail-faisalshmm12@gmail.com
+- Gmail -faisalshmm12@gmail.com
+- linkedin- https://www.linkedin.com/in/faisal-shamim-b821b6226/
 
