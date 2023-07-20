@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Faisal Shamim sophomore at TINT
-- 👀 I’m interested in Data Engineering 
-- 🌱 I’m currently learning python,Hadoop and basic know-how about this domain
+- 👋 Hi, I’m Faisal Shamim pre-final year student at TINT
+- 👀 I’m interested in Data Analyst roles
+- 🌱 I’m currently learning python,pandas,visualization
 - 📫 How to reach me ...
 LinkedIn: https://www.linkedin.com/in/faisal-shamim-a49332241
      
